@@ -1,0 +1,299 @@
+canonical_identifier: bkk:krp/KR6a0024/v1
+canonical_location: https://kanripo.org/bkk/KR6a0024/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 起世經
+  identifiers:
+    alt_id:
+    - T01n0024
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0024.xml
+    old_id: T01n0024
+  edition:
+    short: bkk
+editions:
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0024_000.yaml, hash: 'sha256:e15e1dd1566c1f9ab68cf27f22cb60e664e59e99c55d6d1f50be7d26e56296fd'}
+  - {seq: 1, filename: KR6a0024_001.yaml, hash: 'sha256:a2cd24557cd93d51fee23c0904329070db58081e8923ce48234d1f39c06c8726'}
+  - {seq: 2, filename: KR6a0024_002.yaml, hash: 'sha256:413242cd4fbabb5569fcc8d54628bdc9b55446d0be285b91f9e0c1300e8a9966'}
+  - {seq: 3, filename: KR6a0024_003.yaml, hash: 'sha256:bf6fdc0d88544e5866572122b875df1ff6a25a1a4fdf5f8ab9f2f47ac732acc7'}
+  - {seq: 4, filename: KR6a0024_004.yaml, hash: 'sha256:87ab709b2428178c854984e49b4992cbf2eb328dfba2efe234a73ba19fece32b'}
+  - {seq: 5, filename: KR6a0024_005.yaml, hash: 'sha256:afb5965ead757cd0c77b3e53f3c7550f9687ad0ed3dfe749f3ed8eedb708a464'}
+  - {seq: 6, filename: KR6a0024_006.yaml, hash: 'sha256:9eaca32ea1e287ee9d7e4f9606f648276d4c3d1bd7e728a747d33aac2926e559'}
+  - {seq: 7, filename: KR6a0024_007.yaml, hash: 'sha256:59d1140321531045cf0a0a1061a1c76e6c685a0e3623b79368ff73dadcea4ed9'}
+  - {seq: 8, filename: KR6a0024_008.yaml, hash: 'sha256:4da96a67326795e1c531f3c1258f9854b28395b9cc0577775b647a480d927944'}
+  - {seq: 9, filename: KR6a0024_009.yaml, hash: 'sha256:898d827aabe01e464087427039a5adcb77ad74b22fea1de839ea7e8b4f29f70c'}
+  - {seq: 10, filename: KR6a0024_010.yaml, hash: 'sha256:f46e0c6be4c6d7d07d3abae352f7feef894ad01c1dc08bef3e1abc2b4555aec9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6a0024_001.markers.yaml, hash: 'sha256:4a1e08112f9db744db84a4fbf43d7f14f624047738628b0f00a24ddfbbe7f710'}
+  - {seq: 2, role: markers, filename: assets/KR6a0024_002.markers.yaml, hash: 'sha256:1d695f2c19646bda0fe3ba8a3a1fb6e9006314dfda7b70ab96b235843ec1b891'}
+  - {seq: 3, role: markers, filename: assets/KR6a0024_003.markers.yaml, hash: 'sha256:5ed49a58be877247cfeae89a1b857d1a765a101a118cc4a7d35291ed0eabb08a'}
+  - {seq: 4, role: markers, filename: assets/KR6a0024_004.markers.yaml, hash: 'sha256:1107b72bf47d1b3e98646f4e4d7373c3dd03cb275820fd83c706e02cd6b08d43'}
+  - {seq: 5, role: markers, filename: assets/KR6a0024_005.markers.yaml, hash: 'sha256:02ddbf5b41e8437506b68776b32de6b53e4e0bb93963f32d81747fd13cb77367'}
+  - {seq: 6, role: markers, filename: assets/KR6a0024_006.markers.yaml, hash: 'sha256:8ef9a78a4c5d83056f0813ff659730dc225b8f14050bef36978235bb1feaf889'}
+  - {seq: 7, role: markers, filename: assets/KR6a0024_007.markers.yaml, hash: 'sha256:82b12eeacdba456813718708164b4e1af117ecd155cd1161cd0d72a9b8fe84f1'}
+  - {seq: 8, role: markers, filename: assets/KR6a0024_008.markers.yaml, hash: 'sha256:ad89152914566fc0de1127d2080e2f03bd8414fdcedba83dd289afb9d386a77e'}
+  - {seq: 9, role: markers, filename: assets/KR6a0024_009.markers.yaml, hash: 'sha256:fd17f549e1003001e479e9f475f38fe707f506c66227dbfc6b1d3bb711a54e70'}
+  - {seq: 10, role: markers, filename: assets/KR6a0024_010.markers.yaml, hash: 'sha256:ebdb3bd3b66140c15c0ec8460aa06c8b15d16e519e8c28a1211322215606f3a6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0024_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8584
+  label: 起世經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6a0024_T_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 1 閻浮洲品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6a0024_T_001-mulu-2
+    span:
+    - body
+    - 5626
+    - 5626
+  label: 2 鬱單越洲品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6a0024_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7700
+  label: 起世經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6a0024_T_002-mulu-1
+    span:
+    - body
+    - 1182
+    - 1182
+  label: 3 轉輪聖王品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6a0024_T_002-mulu-2
+    span:
+    - body
+    - 5872
+    - 5872
+  label: 4 地獄品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6a0024_T_002-mulu-3
+    span:
+    - body
+    - 5872
+    - 5872
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6a0024_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7120
+  label: 起世經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6a0024_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6845
+  label: 起世經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6a0024_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6611
+  label: 起世經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6a0024_T_005-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 5 諸龍金翅鳥品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6a0024_T_005-mulu-2
+    span:
+    - body
+    - 4926
+    - 4926
+  label: 6 阿修羅品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6a0024_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6935
+  label: 起世經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6a0024_T_006-mulu-1
+    span:
+    - body
+    - 3354
+    - 3354
+  label: 7 四天王品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6a0024_T_006-mulu-2
+    span:
+    - body
+    - 5029
+    - 5029
+  label: 8 三十三天品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6a0024_T_006-mulu-3
+    span:
+    - body
+    - 5029
+    - 5029
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6a0024_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7088
+  label: 起世經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6a0024_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7663
+  label: 起世經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6a0024_T_008-mulu-1
+    span:
+    - body
+    - 2907
+    - 2907
+  label: 9 鬥戰品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6a0024_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 7295
+  label: 起世經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6a0024_T_009-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 10 劫住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6a0024_T_009-mulu-2
+    span:
+    - body
+    - 1241
+    - 1241
+  label: 11 世住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6a0024_T_009-mulu-3
+    span:
+    - body
+    - 6566
+    - 6566
+  label: 12 最勝品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6a0024_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 8470
+  label: 起世經卷第十
+  type: juan
+  level: 1
+hash: sha256:7ba651caa7ed19eddd134ede9b467a2cab4d6882238567e51f0463d058b295df
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

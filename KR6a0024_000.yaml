@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0024/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 起世經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0024.xml
+    old_id: T01n0024
+hash: sha256:e15e1dd1566c1f9ab68cf27f22cb60e664e59e99c55d6d1f50be7d26e56296fd
